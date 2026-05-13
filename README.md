@@ -7,6 +7,8 @@ It leverages a robust Ensemble architecture (XGBoost, Random Forest, and SVM) to
 
 ## **Installation & Setup**
 
+# *All the files and manuals are in the zip file that cam be download from the main branch of the repository.*
+
 Clone the Repository: 
 
 ```bash
