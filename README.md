@@ -5,7 +5,7 @@
 ExoproteoML is an interactive R/Shiny platform designed for the high-throughput analysis of the eukaryotic exoproteome. 
 It leverages a robust Ensemble architecture (XGBoost, Random Forest, and SVM) to classify proteins into classical and non-conventional secretion pathways with state-of-the-art accuracy.
 
-![Graphical Abstract](img/ExoproteoML_GraphicalAbstract.jpg)
+![Graphical Abstract](www/ExoproteoML_GraphicalAbstract.jpg)
 
 ## **Installation & Setup**
 
