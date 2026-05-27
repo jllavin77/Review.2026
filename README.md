@@ -1,4 +1,4 @@
-![Banner](www/Banner.png)
+![Banner](www/ExoBanner.png)
 
 # *ExoproteoML* Ensemble learning framework for eukaryotic exoproteome prediction
  
