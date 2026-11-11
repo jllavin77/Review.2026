@@ -20,7 +20,7 @@ git clone https://github.com/usuario/ExoproteoML.git
 
 **Download the Model:** Due to its size (700MB), the trained ensemble bundle is hosted on Zenodo.
 
-**Update Disclaimer:** If your current **tidymodels version is higher than 1.50** you should download the **"Ensemble_Bundle_Updated_Tidymodels.rds"** from Zenodo, **rename it as "Ensemble_Bundle.rds" and place it inside the models/ folder.**
+**Update Disclaimer:** If your current **tidymodels version is higher than 1.50** you should download the **"Ensemble_Bundle_Updated_Tidymodels.rds"** from Zenodo, **rename** it as **"Ensemble_Bundle.rds"** and **place** it inside the **models/ folder.**
 	
 Download: https://zenodo.org/uploads/record/18754701 
 	
